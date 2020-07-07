@@ -1,0 +1,172 @@
+[
+  {
+    "name": "beijing",
+    "lat": "39.91",
+    "long": "116.39"
+  },
+  {
+    "name": "shanghai",
+    "lat": "31.23",
+    "long": "121.46"
+  },
+  {
+    "name": "tianjin",
+    "lat": "39.10",
+    "long": "117.25"
+  },
+ {
+    "name": "chongqing",
+    "lat": "29.55",
+    "long": "106.54"
+  },
+  {
+    "name": "hebei",
+    "lat": "38.04",
+    "long": "114.48"
+  },
+  {
+    "name": "shanxi",
+    "lat": "37.83",
+    "long": "112.52"
+  },
+  {
+    "name": "liaoning",
+    "lat": "41.79",
+    "long": "123.41"
+  },
+  {
+    "name": "jilin",
+    "lat": "43.89",
+    "long": "125.31"
+  },
+  {
+    "name": "heilongjiang",
+    "lat": "45.74",
+    "long": "126.64"
+  },
+  {
+    "name": "zhejiang",
+    "lat": "30.26",
+    "long": "120.15"
+  },
+  {
+    "name": "fujian",
+    "lat": "26.07",
+    "long": "119.29"
+  },
+  {
+    "name": "shandong",
+    "lat": "36.66",
+    "long": "117.01"
+  },
+  {
+    "name": "henan",
+    "lat": "34.75",
+    "long": "113.65"
+  },
+  {
+    "name": "hubei",
+    "lat": "30.56",
+    "long": "114.29"
+  },
+  {
+    "name": "hunan",
+    "lat": "28.20",
+    "long": "112.98"
+  },
+   {
+    "name": "guangdong",
+    "lat": "23.12",
+    "long": "113.26"
+  },
+  {
+    "name": "hainan",
+    "lat": "20.03",
+    "long": "110.34"
+  },
+  {
+    "name": "sichuan",
+    "lat": "30.66",
+    "long": "104.08"
+  },
+  {
+    "name": "guizhou",
+    "lat": "26.57",
+    "long": "106.71"
+  },
+  {
+    "name": "yunnan",
+    "lat": "25.04",
+    "long": "102.70"
+  },
+  {
+    "name": "jiangxi",
+    "lat": "28.67",
+    "long": "115.89"
+  },
+  {
+    "name": "xianxi",
+    "lat": "34.26",
+    "long": "108.94"
+  },
+  {
+    "name": "qinghai",
+    "lat": "36.60",
+    "long": "101.78"
+  },
+  {
+    "name": "gansu",
+    "lat": "36.06",
+    "long": "103.75"
+  },
+  {
+    "name": "guangxi",
+    "lat": "22.80",
+    "long": "108.31"
+  },
+  {
+    "name": "xinjiang",
+    "lat": "43.79",
+    "long": "87.60"
+  },
+  {
+    "name": "neimenggu",
+    "lat": "40.82",
+    "long": "111.66"
+  },
+  {
+    "name": "xizang",
+    "lat": "29.65",
+    "long": "91.13"
+  },
+  {
+    "name": "ningxia",
+    "lat": "38.46",
+    "long": "106.27"
+  },
+  {
+    "name": "taiwan",
+    "lat": "23.85",
+    "long": "120.95"
+  },
+  {
+    "name": "hongkong",
+    "lat": "22.39",
+    "long": "114.13"
+  },
+  {
+    "name": "macao",
+    "lat": "22.16",
+    "long": "113.56"
+  },
+  {
+    "name": "anhui",
+    "lat": "31.86",
+    "long": "117.27"
+  },
+  {
+    "name": "jiangsu",
+    "lat": "32.04",
+    "long": "118.77"
+  }
+]
